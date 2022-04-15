@@ -17,3 +17,7 @@ A Tandem-Bycicle creator/customizer built in [Unity](https://unity.com)
 ## Download
 
 ## Credits
+This game was made using paid assets..
+
+* [Flat Kit: Toon Shader](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-toon-shading-and-water-143368)
+* [Modern UI Pack](https://assetstore.unity.com/packages/tools/gui/modern-ui-pack-201717)
