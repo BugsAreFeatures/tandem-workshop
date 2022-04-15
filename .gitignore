@@ -10,7 +10,7 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 #Ignore Plugins folder to exclude any 3rd party software you can't share to github..
-/[Pp]lugins/ 
+/[Aa]ssets/[Pp]lugins/ 
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
