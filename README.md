@@ -17,9 +17,12 @@
   <a href="#credits">Credits</a> •
   <a href="https://bugsarefeatures.itch.io/tandemworkshop"  target="_blank">Game Page</a>
 </p>
+
+<h2 dir="auto">
+  <a id="how-to-use" class="anchor" aria-hidden="true" href="#how-to-use"></a>How To Use</h2>
  
 <h2 dir="auto">
-  <a id="key-features" class="anchor" aria-hidden="true" href="#key-features">Key Features</a></h2>
+  <a id="key-features" class="anchor" aria-hidden="true" href="#key-features"></a>Key Features</h2>
 
 * Custom Transform Handles
   * Supports multiple handle-managers & handles..  
@@ -28,8 +31,6 @@
 * Object Rotation, Position, Scale & Tiling (Pivot to Pivot)
   * Each object is stretched, rotated or positioned as needed using Pivot's..
   * Bike seats are tiled to fit the available space..
-
-## How To Use
 
 ## Credits
 This game was made using paid assets..
