@@ -18,7 +18,8 @@
   <a href="https://bugsarefeatures.itch.io/tandemworkshop"  target="_blank">Game Page</a>
 </p>
  
-<h2 dir="auto"><a id="user-content-key-features" class="anchor" aria-hidden="true" href="#key-features"></a>Key Features</h2>
+<h2 dir="auto">
+  <a id="key-features" class="anchor" aria-hidden="true" href="#key-features">Key Features</a></h2>
 
 * Custom Transform Handles
   * Supports multiple handle-managers & handles..  
