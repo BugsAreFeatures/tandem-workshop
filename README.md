@@ -8,8 +8,7 @@ A Tandem-Bycicle creator/customizer built in <a href="https://unity.com" target=
 
 ![alt text](/GitHub/made-with-unity.svg "Made with Unity") ![alt text](/GitHub/download-latest.svg "Download") ![alt text](/GitHub/curretntly-wip.svg "Work In Progress")
 
-<span style="text-align:center"><a href="#key-features" >Key Features</a> • <a href="#how-to-use" >How To Use</a> • <a href="https://github.com/BugsAreFeatures/tandem-workshop/releases/latest" target="_blank" >Download</a> • <a href="#credits" >Credits</a> • <a href="https://bugsarefeatures.itch.io/tandemworkshop"  target="_blank">Game Page</a> </span>
-
+<a href="#key-features" style="text-align:center">Key Features</a> • <a href="#how-to-use" style="text-align:center">How To Use</a> • <a href="https://github.com/BugsAreFeatures/tandem-workshop/releases/latest" target="_blank" style="text-align:center">Download</a> • <a href="#credits" >Credits</a> • <a href="https://bugsarefeatures.itch.io/tandemworkshop"  target="_blank">Game Page</a>
 
 ## Key Features
 * Custom Transform Handles
