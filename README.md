@@ -7,7 +7,8 @@
 </h4>
 
 <p align="center" dir="auto">
-  ![alt text](/GitHub/made-with-unity.svg "Made with Unity") ![alt text](/GitHub/download-latest.svg "Download") ![alt text](/GitHub/curretntly-wip.svg "Work In Progress")
+  <img src="/GitHub/made-with-unity.svg" alt="Made with Unity">
+  ![alt text]( ) ![alt text](/GitHub/download-latest.svg "Download") ![alt text](/GitHub/curretntly-wip.svg "Work In Progress")
 </p>
 
 <p align="center" dir="auto">
