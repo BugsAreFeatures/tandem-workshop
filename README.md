@@ -11,8 +11,8 @@
 </p>
 
 <p align="center" dir="auto">
-  <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
+  <a href="#key-features">Key Features</a> •
   <a href="https://github.com/BugsAreFeatures/tandem-workshop/releases/latest" target="_blank">Download</a> •
   <a href="#credits">Credits</a> •
   <a href="https://bugsarefeatures.itch.io/tandemworkshop"  target="_blank">Game Page</a>
