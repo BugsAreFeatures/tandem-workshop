@@ -14,8 +14,6 @@ A Tandem-Bycicle creator/customizer built in [Unity](https://unity.com)
 
 ## How To Use
 
-## Download
-
 ## Credits
 This game was made using paid assets..
 
