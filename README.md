@@ -1,12 +1,14 @@
 <h1 align="center">
-Tandem Workshop
+  Tandem Workshop
 </h1>
 
 <h4 align="center">
-A Tandem-Bycicle creator/customizer built in <a href="https://unity.com" target="_blank">Unity</a>
+  A Tandem-Bycicle creator/customizer built in <a href="https://unity.com" target="_blank">Unity</a>
 </h4>
 
-![alt text](/GitHub/made-with-unity.svg "Made with Unity") ![alt text](/GitHub/download-latest.svg "Download") ![alt text](/GitHub/curretntly-wip.svg "Work In Progress")
+<p align="center" dir="auto">
+  ![alt text](/GitHub/made-with-unity.svg "Made with Unity") ![alt text](/GitHub/download-latest.svg "Download") ![alt text](/GitHub/curretntly-wip.svg "Work In Progress")
+</p>
 
 <p align="center" dir="auto">
   <a href="#key-features">Key Features</a> •
