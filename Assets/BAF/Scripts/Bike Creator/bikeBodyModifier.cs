@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using RuntimeHandle;
+
 
 public class bikeBodyModifier : MonoBehaviour
 {
@@ -25,9 +25,7 @@ public class bikeBodyModifier : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
-        var runtimeHandle = FindObjectOfType<RuntimeTransformHandle>();
-        runtimeHandle.transform.localScale = new Vector3(0,0,0);
+
     }
 
     // Update is called once per frame
@@ -88,7 +86,6 @@ public class bikeBodyModifier : MonoBehaviour
 
         lastPole.endPos = lastSeat.transform.Find("Capsule");
         lastPole.startPos = lastSeat.transform.Find("TopPivot");
-        lastSeat.transform.Find("Capsule").GetComponent<mouseMover>().transformHandle = handle;
     }
 
     public void switchSeats()

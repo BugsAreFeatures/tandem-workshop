@@ -7,11 +7,11 @@ public class scaleToPivots : MonoBehaviour
 {
     [SerializeField] public Transform startPos;
     [SerializeField] public Transform endPos;
-    Vector3 initialScale;
+    [SerializeField] Vector3 initialScale;
     // Start is called before the first frame update
     void Start()
     {
-        initialScale = transform.localScale;
+        //initialScale = transform.localScale;
         UpdateTransformScale();
     }
 
@@ -24,7 +24,7 @@ public class scaleToPivots : MonoBehaviour
     void UpdateTransformScale()
     {
         float dist = Vector3.Distance(startPos.position, endPos.position);
-        transform.localScale = new Vector3(initialScale.x, dist, initialScale.z);
+        transform.localScale = new Vector3(initialScale.x, dist / initialScale.y, initialScale.z);
 
         Vector3 midPoint = (startPos.position + endPos.position)/2;
         transform.position = midPoint;
