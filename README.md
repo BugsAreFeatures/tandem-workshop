@@ -1,6 +1,8 @@
 # Tandem Workshop
 A Tandem-Bycicle creator/customizer built in [Unity](https://unity.com)
 
+![alt text](/GitHub/curretntly-wip.svg "Logo Title Text 1")
+
 [Key Features](#key-features) • [How To Use](#how-to-use) • [Download](https://github.com/BugsAreFeatures/tandem-workshop/releases/latest) • [Credits](#credits) • [Game Page](https://bugsarefeatures.itch.io/tandemworkshop)
 
 ## Key Features
