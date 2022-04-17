@@ -4,7 +4,7 @@ Tandem Workshop
 
 <h4 align="center">
 A Tandem-Bycicle creator/customizer built in <a href="https://unity.com" target="_blank">Unity</a>
- </h4>
+</h4>
 
 ![alt text](/GitHub/made-with-unity.svg "Made with Unity") ![alt text](/GitHub/download-latest.svg "Download") ![alt text](/GitHub/curretntly-wip.svg "Work In Progress")
 
@@ -16,7 +16,7 @@ A Tandem-Bycicle creator/customizer built in <a href="https://unity.com" target=
   <a href="https://bugsarefeatures.itch.io/tandemworkshop"  target="_blank">Game Page</a>
 </p>
  
-## Key Features
+<h2 dir="auto"><a id="user-content-key-features" class="anchor" aria-hidden="true" href="#key-features"></a>Key Features</h2>
 * Custom Transform Handles
   * Supports multiple handle-managers & handles..  
   * Per Manager & Per Object: Axis, Rotation, Offset, World/Local Space & Handles..
