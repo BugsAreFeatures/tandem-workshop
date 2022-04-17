@@ -1,7 +1,10 @@
-<p align="center">
+<h1 align="center">
 # Tandem Workshop
-</p>
-A Tandem-Bycicle creator/customizer built in [Unity](https://unity.com)
+</h1>
+
+<h4 align="center">
+ A Tandem-Bycicle creator/customizer built in [Unity](https://unity.com)
+ </h4>
 
 ![alt text](/GitHub/made-with-unity.svg "Made with Unity") ![alt text](/GitHub/download-latest.svg "Download") ![alt text](/GitHub/curretntly-wip.svg "Work In Progress")
 
