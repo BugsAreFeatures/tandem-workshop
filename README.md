@@ -1,5 +1,5 @@
 <h1 align="center">
-# Tandem Workshop
+Tandem Workshop
 </h1>
 
 <h4 align="center">
