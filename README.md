@@ -18,7 +18,7 @@
   <a href="https://bugsarefeatures.itch.io/tandemworkshop"  target="_blank">Game Page</a>
 </p>
 
-<h2 dir="auto">
+<h2 dir="auto" align="center">
   <a id="how-to-use" class="anchor" aria-hidden="true" href="#how-to-use"></a>How To Use</h2>
  
 <h2 dir="auto">
