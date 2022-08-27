@@ -33,7 +33,6 @@
   * Bike seats are tiled to fit the available space..
 
 ## Credits
-This game was made using paid assets..
+This game was made with the help of the following asset(s)..
 
-* [Flat Kit: Toon Shader](https://assetstore.unity.com/packages/vfx/shaders/flat-kit-toon-shading-and-water-143368)
-* [Modern UI Pack](https://assetstore.unity.com/packages/tools/gui/modern-ui-pack-201717)
+* [Simple Toon](https://assetstore.unity.com/packages/vfx/shaders/simple-toon-185038)
